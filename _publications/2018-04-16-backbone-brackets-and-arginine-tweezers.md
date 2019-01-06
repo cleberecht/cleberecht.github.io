@@ -12,6 +12,4 @@ The origin of the machinery that realizes protein biosynthesis in all organisms 
 
 <img src='/images/backbone_backets_and_agrinine_tweezers.png'>
 
-[View paper here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006101)
-
 Citation: Kaiser, F., Bittrich, S., Salentin, S., <b>Leberecht, C.</b>, Haupt, V. J., Krautwurst, S., Schroeder M., & Labudde, D. (2018). Backbone brackets and arginine tweezers delineate class I and class II aminoacyl tRNA synthetases. <i>PLoS computational biology</i>, 14(4), e1006101.
